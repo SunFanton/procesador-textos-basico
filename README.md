@@ -21,4 +21,8 @@ https://www.youtube.com/channel/UCdulIs-x_xrRd1ezwJZR9ww
 
 //----------------VENTANA PRINCIPAL----------------//
 
+![Screenshot](screenshot.png)
+
+![Screenshot](screenshot2.png)
+
 
