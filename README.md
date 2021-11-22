@@ -17,7 +17,7 @@ estilo (Negrita, Cursiva, Subrayado)
 Esta practica fue realizada a partir del ejercicio propuesto en el curso de Java
 de pildorasinformaticas (canal de Youtube)
 
-https://www.youtube.com/channel/UCdulIs-x_xrRd1ezwJZR9ww
+https://www.youtube.com/user/pildorasinformaticas
 
 //----------------VENTANA PRINCIPAL----------------//
 
