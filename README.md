@@ -19,6 +19,8 @@ de pildorasinformaticas (canal de Youtube)
 
 https://www.youtube.com/user/pildorasinformaticas
 
+Pueden probar su ejecución a través del archivo JAR ejecutable "Procesador Textos (jar ejecutable)" que se encuentra en el repositorio.
+
 //----------------VENTANA PRINCIPAL----------------//
 
 ![Screenshot](screenshot.png)
